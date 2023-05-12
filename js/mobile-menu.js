@@ -3,7 +3,7 @@ const btn = document.querySelector(".btn");
 btn.addEventListener('click', openDocument);
 
 function openDocument() {
-    window.open('path/to/document.pdf', '_blank');
+    window.open('Daria_Khlistun_Resume.pdf', '_blank');
 }
 
 

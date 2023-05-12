@@ -420,6 +420,9 @@ textarea::placeholder {
     font-family: 'Montserrat', sans-serif;
 
 }
+a span{
+    font-weight: 700;
+}
 
 @media screen and (min-width: 480px) {
     h1 span:nth-child(2) {
@@ -446,7 +449,6 @@ textarea::placeholder {
 @media screen and (min-width: 760px) {
     .about_me_block {
         display: flex;
-        
     }
 
     .about_me_description {
